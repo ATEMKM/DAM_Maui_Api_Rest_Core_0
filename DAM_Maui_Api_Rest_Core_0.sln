@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.csproj", "{28E2F40A-2534-43E8-901F-FC47CC90B479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidad", "CapaEntidad\CapaEntidad.csproj", "{F9CBEE32-0B2B-42FF-BDCB-2DF1319A09C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E2F40A-2534-43E8-901F-FC47CC90B479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E2F40A-2534-43E8-901F-FC47CC90B479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E2F40A-2534-43E8-901F-FC47CC90B479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E2F40A-2534-43E8-901F-FC47CC90B479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CBEE32-0B2B-42FF-BDCB-2DF1319A09C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CBEE32-0B2B-42FF-BDCB-2DF1319A09C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CBEE32-0B2B-42FF-BDCB-2DF1319A09C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CBEE32-0B2B-42FF-BDCB-2DF1319A09C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BDDCDA5-C918-46B4-A060-D31F24A71FA9}
+	EndGlobalSection
+EndGlobal
