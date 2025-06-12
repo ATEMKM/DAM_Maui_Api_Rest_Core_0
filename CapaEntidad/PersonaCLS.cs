@@ -9,7 +9,14 @@
 
         public string fechanacimientocadena { get; set; }
 
-        
+        //recuperar 
+        public string nombre { get; set; }
+        public string appaterno { get; set; }
+        public string apmaterno { get; set; }
+        public DateTime fechanacimiento { get; set; }
+
+        public int iidsexo { get; set; }
+
 
     }
 }
